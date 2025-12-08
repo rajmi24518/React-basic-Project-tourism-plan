@@ -8,7 +8,8 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/rajmi24518/React-Project-Testimonial-Starter.git
+    git clone https://github.com/rajmi24518/React-Project-tourism-plan.git
+    
     ```
 
 1. Install the required packages.
